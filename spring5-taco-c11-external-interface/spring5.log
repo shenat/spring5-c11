@@ -1,0 +1,166 @@
+2020-06-04 15:52:32.811  INFO 14272 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Starting Spring5DemoApplication on CNSHAULC0112WSK with PID 14272 (C:\software\spring-tools-suite4\workspace\spring5-demo-c2\target\classes started by V_QS4SCV in C:\software\spring-tools-suite4\workspace\spring5-demo-c2)
+2020-06-04 15:52:32.812  INFO 14272 --- [restartedMain] com.example.demo.Spring5DemoApplication  : No active profile set, falling back to default profiles: default
+2020-06-04 15:52:33.067  INFO 14272 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-04 15:52:33.068  INFO 14272 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-04 15:52:33.077  INFO 14272 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-04 15:52:33.104  INFO 14272 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-04 15:52:33.104  INFO 14272 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 289 ms
+2020-06-04 15:52:33.133  INFO 14272 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:52:33.173  INFO 14272 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-04 15:52:33.181  INFO 14272 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-04 15:52:33.185  INFO 14272 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Started Spring5DemoApplication in 0.417 seconds (JVM running for 654.977)
+2020-06-04 15:52:33.186  INFO 14272 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-06-04 15:52:39.148  INFO 14272 --- [RMI TCP Connection(24)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-06-04 15:52:39.286  INFO 14272 --- [RMI TCP Connection(24)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:52:50.846  INFO 3252 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Starting Spring5DemoApplication on CNSHAULC0112WSK with PID 3252 (C:\software\spring-tools-suite4\workspace\spring5-demo-c2\target\classes started by V_QS4SCV in C:\software\spring-tools-suite4\workspace\spring5-demo-c2)
+2020-06-04 15:52:50.848  INFO 3252 --- [restartedMain] com.example.demo.Spring5DemoApplication  : No active profile set, falling back to default profiles: default
+2020-06-04 15:52:50.885  INFO 3252 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-04 15:52:50.885  INFO 3252 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-04 15:52:51.652  INFO 3252 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-04 15:52:51.659  INFO 3252 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-04 15:52:51.660  INFO 3252 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-04 15:52:51.729  INFO 3252 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-04 15:52:51.729  INFO 3252 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 844 ms
+2020-06-04 15:52:51.864  INFO 3252 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:52:52.005  INFO 3252 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-04 15:52:52.033  INFO 3252 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-04 15:52:52.041  INFO 3252 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Started Spring5DemoApplication in 1.472 seconds (JVM running for 2.131)
+2020-06-04 15:53:40.278  INFO 3252 --- [Thread-127] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:53:40.378  INFO 3252 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Starting Spring5DemoApplication on CNSHAULC0112WSK with PID 3252 (C:\software\spring-tools-suite4\workspace\spring5-demo-c2\target\classes started by V_QS4SCV in C:\software\spring-tools-suite4\workspace\spring5-demo-c2)
+2020-06-04 15:53:40.379  INFO 3252 --- [restartedMain] com.example.demo.Spring5DemoApplication  : No active profile set, falling back to default profiles: default
+2020-06-04 15:53:40.645  INFO 3252 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-04 15:53:40.645  INFO 3252 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-04 15:53:40.645  INFO 3252 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-04 15:53:40.671  INFO 3252 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-04 15:53:40.671  INFO 3252 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 289 ms
+2020-06-04 15:53:40.701  INFO 3252 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:53:40.739  INFO 3252 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-04 15:53:40.747  INFO 3252 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-04 15:53:40.751  INFO 3252 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Started Spring5DemoApplication in 0.41 seconds (JVM running for 50.841)
+2020-06-04 15:53:40.752  INFO 3252 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-06-04 15:54:02.623  INFO 3252 --- [Thread-135] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:54:02.754  INFO 3252 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Starting Spring5DemoApplication on CNSHAULC0112WSK with PID 3252 (C:\software\spring-tools-suite4\workspace\spring5-demo-c2\target\classes started by V_QS4SCV in C:\software\spring-tools-suite4\workspace\spring5-demo-c2)
+2020-06-04 15:54:02.754  INFO 3252 --- [restartedMain] com.example.demo.Spring5DemoApplication  : No active profile set, falling back to default profiles: default
+2020-06-04 15:54:03.011  INFO 3252 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-04 15:54:03.011  INFO 3252 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-04 15:54:03.011  INFO 3252 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-04 15:54:03.026  INFO 3252 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-04 15:54:03.026  INFO 3252 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 269 ms
+2020-06-04 15:54:03.053  INFO 3252 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:54:03.087  INFO 3252 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-04 15:54:03.095  INFO 3252 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-04 15:54:03.099  INFO 3252 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Started Spring5DemoApplication in 0.381 seconds (JVM running for 73.189)
+2020-06-04 15:54:03.100  INFO 3252 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-06-04 15:55:04.787  INFO 3252 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-04 15:55:04.789  INFO 3252 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-06-04 15:55:04.795  INFO 3252 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-06-04 15:55:22.819  INFO 3252 --- [http-nio-8080-exec-10] com.sat.controller.DesignTacoController  : processing design:Taco(name=sat, ingredients=null)
+2020-06-04 15:55:25.712  INFO 3252 --- [http-nio-8080-exec-5] com.sat.controller.OrderController       : Order submitted:Order(name=sar, street=, city=, state=, zip=, ccNumber=, ccExpiration=, ccCVV=)
+2020-06-04 15:59:09.214  INFO 3252 --- [Thread-262] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:59:09.366  INFO 3252 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Starting Spring5DemoApplication on CNSHAULC0112WSK with PID 3252 (C:\software\spring-tools-suite4\workspace\spring5-demo-c2\target\classes started by V_QS4SCV in C:\software\spring-tools-suite4\workspace\spring5-demo-c2)
+2020-06-04 15:59:09.366  INFO 3252 --- [restartedMain] com.example.demo.Spring5DemoApplication  : No active profile set, falling back to default profiles: default
+2020-06-04 15:59:09.617  INFO 3252 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-04 15:59:09.617  INFO 3252 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-04 15:59:09.617  INFO 3252 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-04 15:59:09.633  INFO 3252 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-04 15:59:09.633  INFO 3252 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 265 ms
+2020-06-04 15:59:09.659  INFO 3252 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:59:09.693  INFO 3252 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-04 15:59:09.701  INFO 3252 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-04 15:59:09.704  INFO 3252 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Started Spring5DemoApplication in 0.375 seconds (JVM running for 379.793)
+2020-06-04 15:59:09.705  INFO 3252 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-06-04 15:59:14.056  INFO 3252 --- [RMI TCP Connection(26)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-06-04 15:59:14.190  INFO 3252 --- [RMI TCP Connection(26)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:59:21.206  INFO 8088 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Starting Spring5DemoApplication on CNSHAULC0112WSK with PID 8088 (C:\software\spring-tools-suite4\workspace\spring5-demo-c2\target\classes started by V_QS4SCV in C:\software\spring-tools-suite4\workspace\spring5-demo-c2)
+2020-06-04 15:59:21.208  INFO 8088 --- [restartedMain] com.example.demo.Spring5DemoApplication  : No active profile set, falling back to default profiles: default
+2020-06-04 15:59:21.243  INFO 8088 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-04 15:59:21.243  INFO 8088 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-04 15:59:21.992  INFO 8088 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-04 15:59:21.999  INFO 8088 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-04 15:59:22.000  INFO 8088 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-04 15:59:22.077  INFO 8088 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-04 15:59:22.078  INFO 8088 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 835 ms
+2020-06-04 15:59:22.210  INFO 8088 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:59:22.350  INFO 8088 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-04 15:59:22.379  INFO 8088 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-04 15:59:22.387  INFO 8088 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Started Spring5DemoApplication in 1.469 seconds (JVM running for 2.113)
+2020-06-04 15:59:51.361  INFO 8088 --- [Thread-128] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:59:51.481  INFO 8088 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Starting Spring5DemoApplication on CNSHAULC0112WSK with PID 8088 (C:\software\spring-tools-suite4\workspace\spring5-demo-c2\target\classes started by V_QS4SCV in C:\software\spring-tools-suite4\workspace\spring5-demo-c2)
+2020-06-04 15:59:51.481  INFO 8088 --- [restartedMain] com.example.demo.Spring5DemoApplication  : No active profile set, falling back to default profiles: default
+2020-06-04 15:59:51.744  INFO 8088 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-04 15:59:51.745  INFO 8088 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-04 15:59:51.745  INFO 8088 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-04 15:59:51.761  INFO 8088 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-04 15:59:51.761  INFO 8088 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 277 ms
+2020-06-04 15:59:51.790  INFO 8088 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-04 15:59:51.830  INFO 8088 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-04 15:59:51.838  INFO 8088 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-04 15:59:51.842  INFO 8088 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Started Spring5DemoApplication in 0.405 seconds (JVM running for 31.567)
+2020-06-04 15:59:51.843  INFO 8088 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-06-04 16:00:33.948  INFO 8088 --- [Thread-135] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-04 16:00:34.071  INFO 8088 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Starting Spring5DemoApplication on CNSHAULC0112WSK with PID 8088 (C:\software\spring-tools-suite4\workspace\spring5-demo-c2\target\classes started by V_QS4SCV in C:\software\spring-tools-suite4\workspace\spring5-demo-c2)
+2020-06-04 16:00:34.071  INFO 8088 --- [restartedMain] com.example.demo.Spring5DemoApplication  : No active profile set, falling back to default profiles: default
+2020-06-04 16:00:34.318  INFO 8088 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-04 16:00:34.319  INFO 8088 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-04 16:00:34.319  INFO 8088 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-04 16:00:34.352  INFO 8088 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-04 16:00:34.352  INFO 8088 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 278 ms
+2020-06-04 16:00:34.381  INFO 8088 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-04 16:00:34.417  INFO 8088 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-04 16:00:34.424  INFO 8088 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-04 16:00:34.427  INFO 8088 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Started Spring5DemoApplication in 0.393 seconds (JVM running for 74.153)
+2020-06-04 16:00:34.428  INFO 8088 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-06-04 16:02:22.072  INFO 8088 --- [RMI TCP Connection(18)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-06-04 16:02:22.210  INFO 8088 --- [RMI TCP Connection(18)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-04 16:02:39.573  INFO 132 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Starting Spring5DemoApplication on CNSHAULC0112WSK with PID 132 (C:\software\spring-tools-suite4\workspace\spring5-demo-c2\target\classes started by V_QS4SCV in C:\software\spring-tools-suite4\workspace\spring5-demo-c2)
+2020-06-04 16:02:39.575  INFO 132 --- [restartedMain] com.example.demo.Spring5DemoApplication  : No active profile set, falling back to default profiles: default
+2020-06-04 16:02:39.609  INFO 132 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-04 16:02:39.610  INFO 132 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-04 16:02:40.330  INFO 132 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-04 16:02:40.338  INFO 132 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-04 16:02:40.338  INFO 132 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-04 16:02:40.418  INFO 132 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-04 16:02:40.418  INFO 132 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 808 ms
+2020-06-04 16:02:40.551  INFO 132 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-04 16:02:40.689  INFO 132 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-04 16:02:40.716  INFO 132 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-04 16:02:40.724  INFO 132 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Started Spring5DemoApplication in 1.418 seconds (JVM running for 2.059)
+2020-06-04 16:03:04.430  INFO 132 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-04 16:03:04.430  INFO 132 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-06-04 16:03:04.434  INFO 132 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-06-04 16:03:16.892  INFO 132 --- [http-nio-8080-exec-10] com.sat.controller.DesignTacoController  : processing design:Taco(name=, ingredients=null)
+2020-06-04 16:03:17.601  INFO 132 --- [http-nio-8080-exec-3] com.sat.controller.OrderController       : Order submitted:Order(name=, street=, city=, state=, zip=, ccNumber=, ccExpiration=, ccCVV=)
+2020-06-04 16:33:21.813  INFO 132 --- [Thread-127] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-04 16:36:09.516  INFO 132 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Starting Spring5DemoApplication on CNSHAULC0112WSK with PID 132 (C:\software\spring-tools-suite4\workspace\spring5-demo-c2\target\classes started by V_QS4SCV in C:\software\spring-tools-suite4\workspace\spring5-demo-c2)
+2020-06-04 16:36:09.517  INFO 132 --- [restartedMain] com.example.demo.Spring5DemoApplication  : No active profile set, falling back to default profiles: default
+2020-06-04 16:36:09.748  INFO 132 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-04 16:36:09.749  INFO 132 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-04 16:36:09.749  INFO 132 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-04 16:36:09.764  INFO 132 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-04 16:36:09.764  INFO 132 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 245 ms
+2020-06-04 16:36:09.790  INFO 132 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-04 16:36:09.824  INFO 132 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-04 16:36:09.831  INFO 132 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-04 16:36:09.834  INFO 132 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Started Spring5DemoApplication in 0.356 seconds (JVM running for 2011.168)
+2020-06-04 16:36:09.835  INFO 132 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-06-04 16:36:42.604  INFO 132 --- [RMI TCP Connection(51)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-06-04 16:36:42.742  INFO 132 --- [RMI TCP Connection(51)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-04 16:36:57.239  INFO 6508 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Starting Spring5DemoApplication on CNSHAULC0112WSK with PID 6508 (C:\software\spring-tools-suite4\workspace\spring5-demo-c2\target\classes started by V_QS4SCV in C:\software\spring-tools-suite4\workspace\spring5-demo-c2)
+2020-06-04 16:36:57.242  INFO 6508 --- [restartedMain] com.example.demo.Spring5DemoApplication  : No active profile set, falling back to default profiles: default
+2020-06-04 16:36:57.281  INFO 6508 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-04 16:36:57.282  INFO 6508 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-04 16:36:58.064  INFO 6508 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-04 16:36:58.073  INFO 6508 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-04 16:36:58.074  INFO 6508 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-04 16:36:58.154  INFO 6508 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-04 16:36:58.154  INFO 6508 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 872 ms
+2020-06-04 16:36:58.296  INFO 6508 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-04 16:36:58.445  INFO 6508 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-06-04 16:36:58.479  INFO 6508 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-04 16:36:58.487  INFO 6508 --- [restartedMain] com.example.demo.Spring5DemoApplication  : Started Spring5DemoApplication in 1.525 seconds (JVM running for 2.188)
+2020-06-04 16:38:13.388  INFO 6508 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-04 16:38:13.388  INFO 6508 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-06-04 16:38:13.393  INFO 6508 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-06-04 16:38:21.021  INFO 6508 --- [http-nio-8080-exec-8] com.sat.controller.DesignTacoController  : processing design:Taco(name=, ingredients=null)
+2020-06-04 16:38:21.489  INFO 6508 --- [http-nio-8080-exec-2] com.sat.controller.OrderController       : Order submitted:Order(name=, street=, city=, state=, zip=, ccNumber=, ccExpiration=, ccCVV=)
+2020-06-04 16:38:57.692  INFO 6508 --- [Thread-127] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
